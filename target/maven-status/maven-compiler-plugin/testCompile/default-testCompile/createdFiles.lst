@@ -1,0 +1,6 @@
+net/serenitybdd/tutorials/ui/CategoryNavigation.class
+net/serenitybdd/tutorials/ui/GovHomePage.class
+features/navigation/WhenBrowsingCategories.class
+net/serenitybdd/tutorials/ui/CurrentPage.class
+steps/NavigatingUser.class
+model/Category.class
