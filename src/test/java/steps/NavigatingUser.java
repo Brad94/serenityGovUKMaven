@@ -1,17 +1,19 @@
 package steps;
 
 import model.*;
-import net.serenitybdd.tutorials.ui.CategoryNavigation;
-import net.serenitybdd.tutorials.ui.CurrentPage;
-import net.serenitybdd.tutorials.ui.GovHomePage;
 import net.thucydides.core.annotations.Step;
+import serenitybdd.LinkNavigation;
+import serenitybdd.CurrentPage;
+import serenitybdd.GovHomePage;
+import serenitybdd.SearchNavigation;
 
 import static org.assertj.core.api.Assertions.assertThat;
 public class NavigatingUser {
 	
 	GovHomePage govHomePage;
 	CurrentPage currentPage;
-	CategoryNavigation categoryNavigation;
+	LinkNavigation linkNavigation;
+	SearchNavigation searchNavigation;
 	
 	@Step
 	public void isOnTheHomePage() {
@@ -19,13 +21,21 @@ public class NavigatingUser {
 	}
 	
 	@Step
-    public void navigatesToDrivingAndTransport(Category category) {
-        categoryNavigation.selectCategory(category);
+    public void navigatesToCategory(Link category) {
+        linkNavigation.selectCategory(category);
     }
 	
 	@Step
 	public void shouldSeePageTitleContaining(String expectedTitle) {
 		assertThat(currentPage.getTitle()).containsIgnoringCase(expectedTitle);
 	}
-
+	
+	@Step
+	public void searchesFor(Search search) {
+		searchNavigation.search(search);
+	}
+	@Step
+    public void navigatesToLink(Link link) {
+		linkNavigation.selectStudentFinance(link);
+    }
 }

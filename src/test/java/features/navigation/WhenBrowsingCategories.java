@@ -4,7 +4,9 @@ import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.openqa.selenium.WebDriver;
 
-import model.Category;
+import model.Link;
+import model.Search;
+
 import net.serenitybdd.junit.runners.SerenityRunner;
 import net.thucydides.core.annotations.Managed;
 import net.thucydides.core.annotations.Steps;
@@ -27,9 +29,24 @@ public class WhenBrowsingCategories {
 		mark.isOnTheHomePage();
 		
 		//When
-		mark.navigatesToDrivingAndTransport(Category.Driving);
+		mark.navigatesToCategory(Link.Driving);
 		
 		//Then
 		mark.shouldSeePageTitleContaining("Driving and transport - GOV.UK");
+	}
+	@Test
+	public void shouldBeAbleToSearchForStudentFinance() 
+	{
+		//Given
+		mark.isOnTheHomePage();
+		
+		//When
+		mark.searchesFor(Search.StudentFinance);
+		
+		//And
+		mark.navigatesToLink(Link.StudentFinance);
+		
+		//Then
+		mark.shouldSeePageTitleContaining("Student finance - GOV.UK");
 	}
 }

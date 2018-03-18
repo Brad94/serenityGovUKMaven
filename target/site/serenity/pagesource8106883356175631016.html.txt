@@ -1,0 +1,1068 @@
+<!DOCTYPE html><!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><!--<![endif]--><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta charset="utf-8" />
+    <title>StudentFinance - Search - GOV.UK</title>
+
+    <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-2775f99eaec64ff8121bfbfb3eb67b0c2b4b7c3fc78d25da30e12db2a09d30d6.css" crossorigin="anonymous" integrity="sha256-J3X5nq7GT/gSG/v7PrZ7DCtLfD/HjSXaMOEtsqCdMNY=" />
+<!--<![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-ie6-5bb08c355a12ac38b0ac9d2446da122ec0f81c78e02dcd2a98766f53c23793c8.css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-ie7-be1ea757827710f20eae59ae3ebfd172b7dbeabb171a79945ba610947eebb3cc.css" /><![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-ie8-5ab4d0c7b42f2bf10f8c7aadf331a11f7399be832b0ee2c68c94071195a1e36e.css" /><![endif]-->
+    <link rel="stylesheet" media="print" href="https://assets.publishing.service.gov.uk/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css" crossorigin="anonymous" integrity="sha256-EHZRlSHC//u/das7DTsy7i2WrH6XePHN+sF3Hu/RocA=" />
+
+    <!--[if IE 8]><link rel="stylesheet" media="all" href="https://assets.publishing.service.gov.uk/static/fonts-ie8-f5e3c18a96ecb0f37246556a27330202d6e18feffa05a3b67825024609629ac8.css" /><![endif]-->
+    <!--[if gte IE 9]><!--><link rel="stylesheet" media="all" href="https://assets.publishing.service.gov.uk/static/fonts-5ff8c53913434afd0072a480d7cfca67cace4c8d03f6ef96b78a4455728ce745.css" crossorigin="anonymous" integrity="sha256-X/jFORNDSv0AcqSA18/KZ8rOTI0D9u+Wt4pEVXKM50U=" />
+<!--<![endif]-->
+    <!--[if lt IE 9]><script src="https://assets.publishing.service.gov.uk/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js" crossorigin="anonymous" integrity="sha256-pFJFRKU9V6fiWbS7lmucMlV8mMkgt35S0JMEZCtoQBo="></script><![endif]-->
+
+    <link rel="shortcut icon" href="https://assets.publishing.service.gov.uk/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon" />
+    <link rel="mask-icon" href="https://assets.publishing.service.gov.uk/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c" />
+    <link rel="apple-touch-icon" sizes="180x180" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png" />
+    <link rel="apple-touch-icon" sizes="167x167" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png" />
+    <link rel="apple-touch-icon" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png" />
+
+    <meta name="theme-color" content="#0b0c0c" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta property="og:image" content="https://assets.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png" />
+
+      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/header-footer-only-5b6718f852e5be2b431201ac882deb91d17c5b0a2d859382725e656cf0ce9d97.css" crossorigin="anonymous" integrity="sha256-W2cY+FLlvitDEgGsiC3rkdF8WwothZOCcl5lbPDOnZc=" />
+<!--<![endif]-->
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/header-footer-only-ie6-8ba170c7853125cd89a48606b9330d4bc95eac741a30800c1f96cde398e3edd6.css" /><script>var ieVersion = 6;</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/header-footer-only-ie7-9e65d59c9bc6bcaf1ddf0f0e389c66b5c98fb013b407dc523bdbc93c68828209.css" /><script>var ieVersion = 7;</script><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/header-footer-only-ie8-c9ea53fe0e24bf06972f0bf16136215d0d25ad2eede35880f394058d97e3890e.css" /><script>var ieVersion = 8;</script><![endif]-->
+
+<link rel="stylesheet" media="print" href="https://assets.publishing.service.gov.uk/static/header-footer-only-print-07d9f2ae45b9bf761acf17c7ec414a9493f1a7cf1c8278b7ad5497cdd73eee84.css" crossorigin="anonymous" integrity="sha256-B9nyrkW5v3YazxfH7EFKlJPxp88cgni3rVSXzdc+7oQ=" />
+
+
+  <link title="Search" rel="search" type="application/opensearchdescription+xml" href="/search/opensearch.xml" />
+<!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/finder-frontend/application-site-search-40f08c1f43dd201f532bfbd515719bdcb3a85fb5502cc656c1a24cec2fab873c.css" crossorigin="anonymous" integrity="sha256-QPCMH0PdIB9TK/vVFXGb3LOoX7VQLMZWwaJM7C+rhzw=" />
+<!--<![endif]--><link rel="alternate" type="application/json" href="/api/search.json?q=StudentFinance" />
+<meta name="govuk:format" content="search" />
+<meta name="govuk:schema-name" content="special_route" />
+<meta name="govuk:user-journey-stage" content="finding" />
+<meta name="govuk:navigation-document-type" content="other" />
+<meta name="govuk:static-analytics:strip-postcodes" content="true" />
+<meta name="description" content="Search for 'StudentFinance' on GOV.UK." />
+<meta name="robots" content="noindex" />
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/finder-frontend/application-site-search-ie6-acdc1c9ca629a4f2cb34fce1b257df8c8dd641005897c8a5d605a314c12a85f8.css" /><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/finder-frontend/application-site-search-ie7-d85965883c4bab431f97808c359a24dae58be2816c8321067c5d97d73746d453.css" /><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/finder-frontend/application-site-search-ie8-f9f956f8771271aa57d747899f68e6528578413d32f41723109e5538ba61b3f8.css" /><![endif]--><meta name="govuk:search-result-count" content="25810" />
+<meta name="govuk:rendering-application" content="finder-frontend" />
+</head>
+
+  <body class="mainstream search js-enabled">
+    <script type="text/javascript" async="" src="https://www.google-analytics.com/plugins/ua/ec.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+
+    
+
+    <div id="skiplink-container">
+      <div>
+        <a href="#content" class="skiplink">Skip to main content</a>
+      </div>
+    </div>
+
+    <div id="global-cookie-message">
+        <p>GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a></p>
+    </div>
+
+    <header role="banner" id="global-header" class="">
+      <div class="header-wrapper">
+        <div class="header-global">
+          <div class="header-logo">
+            <a href="https://www.gov.uk" title="Go to the GOV.UK homepage" id="logo" class="content">
+              <img src="https://assets.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt="" /> GOV.UK
+            </a>
+          </div>
+            
+
+  
+
+        </div>
+        
+      </div>
+    </header>
+
+      <div id="user-satisfaction-survey-container"><section id="user-satisfaction-survey" class="visible" aria-hidden="false">  <div class="survey-wrapper">    <a class="survey-close-button" href="#user-survey-cancel" aria-labelledby="survey-title user-survey-cancel" id="user-survey-cancel" role="button">Close</a>    <h2 class="survey-title" id="survey-title">Tell us what you think of GOV.UK</h2><div id="email-survey-pre">  <a class="survey-primary-link" href="#email-survey-form" id="email-survey-open" rel="noopener noreferrer" role="button" aria-expanded="false">    Take a short survey to give us your feedback  </a></div><form id="email-survey-form" action="/contact/govuk/email-survey-signup" method="post" class="js-hidden" aria-hidden="true">  <div class="survey-inner-wrapper">    <div id="survey-form-description" class="survey-form-description">We’ll send you a link to a feedback form. It only takes 2 minutes to fill in.      <br /> Don’t worry: we won’t send you spam or share your email address with anyone.    </div>    <label class="survey-form-label" for="survey-email-address">      Email Address    </label>    <input name="email_survey_signup[survey_id]" type="hidden" value="user_satisfaction_survey" />    <input name="email_survey_signup[survey_source]" type="hidden" value="/search" />    <input name="email_survey_signup[ga_client_id]" type="hidden" value="691161179.1521391884" />    <input class="survey-form-input" name="email_survey_signup[email_address]" id="survey-email-address" type="text" aria-describedby="survey-form-description" />    <button class="survey-form-button" type="submit">Send me the survey</button><a href="https://www.smartsurvey.co.uk/s/gov_uk?c=/search&amp;gcl=691161179.1521391884" id="take-survey" target="_blank" rel="noopener noreferrer">Don’t have an email address?</a>  </div></form><div id="email-survey-post-success" class="js-hidden" aria-hidden="true" tabindex="-1">  Thanks, we’ve sent you an email with a link to the survey.</div><div id="email-survey-post-failure" class="js-hidden" aria-hidden="true" tabindex="-1">  Sorry, we’re unable to send you an email right now. Please try again later.</div>  </div></section></div>
+
+
+    <div id="global-header-bar"></div>
+
+      <div id="wrapper">
+  
+<main id="content" role="main" class="group search">
+  <form action="/search" method="get" accept-charset="utf-8" role="search" class="js-live-search-form">
+    <div class="search-header">
+      <div class="searchfield">
+  <fieldset class="search-input">
+    <label for="search-main">
+        <h1>Search results for <span class="visuallyhidden">“StudentFinance”</span>
+</h1>
+    </label>
+
+    <input type="search" name="q" value="StudentFinance" id="search-main" />
+
+    
+    
+    
+    
+  </fieldset>
+
+  <fieldset class="search-submit">
+    <button type="submit" class="button">Search</button>
+  </fieldset>
+</div>
+
+  <fieldset class="spelling-suggestion">
+    <p>Did you mean <a href="/search?o=StudentFinance&amp;q=student+finance">student finance</a>
+    </p>
+  </fieldset>
+
+    </div>
+
+    <div id="results" class="js-live-search-results-block">
+      <div aria-live="assertive" class="js-aria-live-count visuallyhidden">25810 found</div>
+
+        <div class="filter-form">
+          <div class="inner-block">
+
+              <div class="app-c-option-select js-collapsible js-closed" data-closed-on-load="true" data-input-aria-controls="js-live-search-results">
+  <button class="js-container-head" type="button" aria-expanded="false" aria-controls="organisations">
+    <div class="option-select-label" id="option-select-title-organisations">
+      Organisations
+    </div>
+  <div class="js-selected-counter"></div></button>
+  <div role="group" aria-labelledby="option-select-title-organisations" class="options-container" id="organisations">
+    <div class="js-auto-height-inner">
+      <label for="filter_organisations-hm-revenue-customs">
+        <input name="filter_organisations[]" value="hm-revenue-customs" id="filter_organisations-hm-revenue-customs" type="checkbox" aria-controls="js-live-search-results" />
+        HM Revenue &amp; Customs (6,493)
+        </label>
+      <label for="filter_organisations-department-for-international-development">
+        <input name="filter_organisations[]" value="department-for-international-development" id="filter_organisations-department-for-international-development" type="checkbox" aria-controls="js-live-search-results" />
+        Department for International Development (1,938)
+        </label>
+      <label for="filter_organisations-department-for-business-innovation-skills">
+        <input name="filter_organisations[]" value="department-for-business-innovation-skills" id="filter_organisations-department-for-business-innovation-skills" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Department for Business, Innovation &amp; Skills (1,714)
+        </label>
+      <label for="filter_organisations-ministry-of-justice">
+        <input name="filter_organisations[]" value="ministry-of-justice" id="filter_organisations-ministry-of-justice" type="checkbox" aria-controls="js-live-search-results" />
+        Ministry of Justice (1,398)
+        </label>
+      <label for="filter_organisations-foreign-commonwealth-office">
+        <input name="filter_organisations[]" value="foreign-commonwealth-office" id="filter_organisations-foreign-commonwealth-office" type="checkbox" aria-controls="js-live-search-results" />
+        Foreign &amp; Commonwealth Office (1,293)
+        </label>
+      <label for="filter_organisations-hm-treasury">
+        <input name="filter_organisations[]" value="hm-treasury" id="filter_organisations-hm-treasury" type="checkbox" aria-controls="js-live-search-results" />
+        HM Treasury (1,282)
+        </label>
+      <label for="filter_organisations-hm-courts-and-tribunals-service">
+        <input name="filter_organisations[]" value="hm-courts-and-tribunals-service" id="filter_organisations-hm-courts-and-tribunals-service" type="checkbox" aria-controls="js-live-search-results" />
+        HM Courts &amp; Tribunals Service (1,139)
+        </label>
+      <label for="filter_organisations-department-for-education">
+        <input name="filter_organisations[]" value="department-for-education" id="filter_organisations-department-for-education" type="checkbox" aria-controls="js-live-search-results" />
+        Department for Education (988)
+        </label>
+      <label for="filter_organisations-ministry-of-housing-communities-and-local-government">
+        <input name="filter_organisations[]" value="ministry-of-housing-communities-and-local-government" id="filter_organisations-ministry-of-housing-communities-and-local-government" type="checkbox" aria-controls="js-live-search-results" />
+        Ministry of Housing, Communities &amp; Local Government (876)
+        </label>
+      <label for="filter_organisations-prime-ministers-office-10-downing-street">
+        <input name="filter_organisations[]" value="prime-ministers-office-10-downing-street" id="filter_organisations-prime-ministers-office-10-downing-street" type="checkbox" aria-controls="js-live-search-results" />
+        Prime Minister's Office, 10 Downing Street (624)
+        </label>
+      <label for="filter_organisations-cabinet-office">
+        <input name="filter_organisations[]" value="cabinet-office" id="filter_organisations-cabinet-office" type="checkbox" aria-controls="js-live-search-results" />
+        Cabinet Office (576)
+        </label>
+      <label for="filter_organisations-uk-export-finance">
+        <input name="filter_organisations[]" value="uk-export-finance" id="filter_organisations-uk-export-finance" type="checkbox" aria-controls="js-live-search-results" />
+        UK Export Finance (485)
+        </label>
+      <label for="filter_organisations-employment-tribunal">
+        <input name="filter_organisations[]" value="employment-tribunal" id="filter_organisations-employment-tribunal" type="checkbox" aria-controls="js-live-search-results" />
+        Employment Tribunal (471)
+        </label>
+      <label for="filter_organisations-ministry-of-defence">
+        <input name="filter_organisations[]" value="ministry-of-defence" id="filter_organisations-ministry-of-defence" type="checkbox" aria-controls="js-live-search-results" />
+        Ministry of Defence (449)
+        </label>
+      <label for="filter_organisations-home-office">
+        <input name="filter_organisations[]" value="home-office" id="filter_organisations-home-office" type="checkbox" aria-controls="js-live-search-results" />
+        Home Office (425)
+        </label>
+      <label for="filter_organisations-upper-tribunal-tax-and-chancery-chamber">
+        <input name="filter_organisations[]" value="upper-tribunal-tax-and-chancery-chamber" id="filter_organisations-upper-tribunal-tax-and-chancery-chamber" type="checkbox" aria-controls="js-live-search-results" />
+        Upper Tribunal (Tax and Chancery Chamber) (391)
+        </label>
+      <label for="filter_organisations-department-of-energy-climate-change">
+        <input name="filter_organisations[]" value="department-of-energy-climate-change" id="filter_organisations-department-of-energy-climate-change" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Department of Energy &amp; Climate Change (385)
+        </label>
+      <label for="filter_organisations-department-for-digital-culture-media-sport">
+        <input name="filter_organisations[]" value="department-for-digital-culture-media-sport" id="filter_organisations-department-for-digital-culture-media-sport" type="checkbox" aria-controls="js-live-search-results" />
+        Department for Digital, Culture, Media &amp; Sport (313)
+        </label>
+      <label for="filter_organisations-department-for-work-pensions">
+        <input name="filter_organisations[]" value="department-for-work-pensions" id="filter_organisations-department-for-work-pensions" type="checkbox" aria-controls="js-live-search-results" />
+        Department for Work and Pensions (284)
+        </label>
+      <label for="filter_organisations-air-accidents-investigation-branch">
+        <input name="filter_organisations[]" value="air-accidents-investigation-branch" id="filter_organisations-air-accidents-investigation-branch" type="checkbox" aria-controls="js-live-search-results" />
+        Air Accidents Investigation Branch (279)
+        </label>
+      <label for="filter_organisations-department-for-transport">
+        <input name="filter_organisations[]" value="department-for-transport" id="filter_organisations-department-for-transport" type="checkbox" aria-controls="js-live-search-results" />
+        Department for Transport (251)
+        </label>
+      <label for="filter_organisations-department-of-health-and-social-care">
+        <input name="filter_organisations[]" value="department-of-health-and-social-care" id="filter_organisations-department-of-health-and-social-care" type="checkbox" aria-controls="js-live-search-results" />
+        Department of Health and Social Care (219)
+        </label>
+      <label for="filter_organisations-ofqual">
+        <input name="filter_organisations[]" value="ofqual" id="filter_organisations-ofqual" type="checkbox" aria-controls="js-live-search-results" />
+        Ofqual (214)
+        </label>
+      <label for="filter_organisations-department-for-international-trade">
+        <input name="filter_organisations[]" value="department-for-international-trade" id="filter_organisations-department-for-international-trade" type="checkbox" aria-controls="js-live-search-results" />
+        Department for International Trade (204)
+        </label>
+      <label for="filter_organisations-department-for-business-energy-and-industrial-strategy">
+        <input name="filter_organisations[]" value="department-for-business-energy-and-industrial-strategy" id="filter_organisations-department-for-business-energy-and-industrial-strategy" type="checkbox" aria-controls="js-live-search-results" />
+        Department for Business, Energy &amp; Industrial Strategy (199)
+        </label>
+      <label for="filter_organisations-valuation-office-agency">
+        <input name="filter_organisations[]" value="valuation-office-agency" id="filter_organisations-valuation-office-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Valuation Office Agency (193)
+        </label>
+      <label for="filter_organisations-office-of-the-secretary-of-state-for-wales">
+        <input name="filter_organisations[]" value="office-of-the-secretary-of-state-for-wales" id="filter_organisations-office-of-the-secretary-of-state-for-wales" type="checkbox" aria-controls="js-live-search-results" />
+        Office of the Secretary of State for Wales (192)
+        </label>
+      <label for="filter_organisations-uk-trade-investment">
+        <input name="filter_organisations[]" value="uk-trade-investment" id="filter_organisations-uk-trade-investment" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: UK Trade &amp; Investment (182)
+        </label>
+      <label for="filter_organisations-department-for-environment-food-rural-affairs">
+        <input name="filter_organisations[]" value="department-for-environment-food-rural-affairs" id="filter_organisations-department-for-environment-food-rural-affairs" type="checkbox" aria-controls="js-live-search-results" />
+        Department for Environment, Food &amp; Rural Affairs (181)
+        </label>
+      <label for="filter_organisations-office-for-national-statistics">
+        <input name="filter_organisations[]" value="office-for-national-statistics" id="filter_organisations-office-for-national-statistics" type="checkbox" aria-controls="js-live-search-results" />
+        Office for National Statistics (165)
+        </label>
+      <label for="filter_organisations-office-of-the-secretary-of-state-for-scotland">
+        <input name="filter_organisations[]" value="office-of-the-secretary-of-state-for-scotland" id="filter_organisations-office-of-the-secretary-of-state-for-scotland" type="checkbox" aria-controls="js-live-search-results" />
+        Office of the Secretary of State for Scotland (162)
+        </label>
+      <label for="filter_organisations-employment-appeal-tribunal">
+        <input name="filter_organisations[]" value="employment-appeal-tribunal" id="filter_organisations-employment-appeal-tribunal" type="checkbox" aria-controls="js-live-search-results" />
+        Employment Appeal Tribunal (154)
+        </label>
+      <label for="filter_organisations-deputy-prime-ministers-office">
+        <input name="filter_organisations[]" value="deputy-prime-ministers-office" id="filter_organisations-deputy-prime-ministers-office" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Deputy Prime Minister's Office (150)
+        </label>
+      <label for="filter_organisations-monitor">
+        <input name="filter_organisations[]" value="monitor" id="filter_organisations-monitor" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Monitor (143)
+        </label>
+      <label for="filter_organisations-northern-ireland-office">
+        <input name="filter_organisations[]" value="northern-ireland-office" id="filter_organisations-northern-ireland-office" type="checkbox" aria-controls="js-live-search-results" />
+        Northern Ireland Office (122)
+        </label>
+      <label for="filter_organisations-ofsted">
+        <input name="filter_organisations[]" value="ofsted" id="filter_organisations-ofsted" type="checkbox" aria-controls="js-live-search-results" />
+        Ofsted (114)
+        </label>
+      <label for="filter_organisations-education-funding-agency">
+        <input name="filter_organisations[]" value="education-funding-agency" id="filter_organisations-education-funding-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Education Funding Agency (109)
+        </label>
+      <label for="filter_organisations-upper-tribunal-administrative-appeals-chamber">
+        <input name="filter_organisations[]" value="upper-tribunal-administrative-appeals-chamber" id="filter_organisations-upper-tribunal-administrative-appeals-chamber" type="checkbox" aria-controls="js-live-search-results" />
+        Upper Tribunal (Administrative Appeals Chamber) (107)
+        </label>
+      <label for="filter_organisations-education-and-skills-funding-agency">
+        <input name="filter_organisations[]" value="education-and-skills-funding-agency" id="filter_organisations-education-and-skills-funding-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Education and Skills Funding Agency (106)
+        </label>
+      <label for="filter_organisations-intellectual-property-office">
+        <input name="filter_organisations[]" value="intellectual-property-office" id="filter_organisations-intellectual-property-office" type="checkbox" aria-controls="js-live-search-results" />
+        Intellectual Property Office (105)
+        </label>
+      <label for="filter_organisations-welsh-government">
+        <input name="filter_organisations[]" value="welsh-government" id="filter_organisations-welsh-government" type="checkbox" aria-controls="js-live-search-results" />
+        Welsh Government (103)
+        </label>
+      <label for="filter_organisations-uk-visas-and-immigration">
+        <input name="filter_organisations[]" value="uk-visas-and-immigration" id="filter_organisations-uk-visas-and-immigration" type="checkbox" aria-controls="js-live-search-results" />
+        UK Visas and Immigration (102)
+        </label>
+      <label for="filter_organisations-competition-and-markets-authority">
+        <input name="filter_organisations[]" value="competition-and-markets-authority" id="filter_organisations-competition-and-markets-authority" type="checkbox" aria-controls="js-live-search-results" />
+        Competition and Markets Authority (100)
+        </label>
+      <label for="filter_organisations-innovate-uk">
+        <input name="filter_organisations[]" value="innovate-uk" id="filter_organisations-innovate-uk" type="checkbox" aria-controls="js-live-search-results" />
+        Innovate UK (80)
+        </label>
+      <label for="filter_organisations-insolvency-service">
+        <input name="filter_organisations[]" value="insolvency-service" id="filter_organisations-insolvency-service" type="checkbox" aria-controls="js-live-search-results" />
+        The Insolvency Service (71)
+        </label>
+      <label for="filter_organisations-student-loans-company">
+        <input name="filter_organisations[]" value="student-loans-company" id="filter_organisations-student-loans-company" type="checkbox" aria-controls="js-live-search-results" />
+        Student Loans Company (69)
+        </label>
+      <label for="filter_organisations-public-health-england">
+        <input name="filter_organisations[]" value="public-health-england" id="filter_organisations-public-health-england" type="checkbox" aria-controls="js-live-search-results" />
+        Public Health England (64)
+        </label>
+      <label for="filter_organisations-charity-commission">
+        <input name="filter_organisations[]" value="charity-commission" id="filter_organisations-charity-commission" type="checkbox" aria-controls="js-live-search-results" />
+        The Charity Commission (60)
+        </label>
+      <label for="filter_organisations-natural-england">
+        <input name="filter_organisations[]" value="natural-england" id="filter_organisations-natural-england" type="checkbox" aria-controls="js-live-search-results" />
+        Natural England (59)
+        </label>
+      <label for="filter_organisations-environment-agency">
+        <input name="filter_organisations[]" value="environment-agency" id="filter_organisations-environment-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Environment Agency (53)
+        </label>
+      <label for="filter_organisations-uk-space-agency">
+        <input name="filter_organisations[]" value="uk-space-agency" id="filter_organisations-uk-space-agency" type="checkbox" aria-controls="js-live-search-results" />
+        UK Space Agency (53)
+        </label>
+      <label for="filter_organisations-homes-and-communities-agency">
+        <input name="filter_organisations[]" value="homes-and-communities-agency" id="filter_organisations-homes-and-communities-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Homes and Communities Agency (50)
+        </label>
+      <label for="filter_organisations-land-registry">
+        <input name="filter_organisations[]" value="land-registry" id="filter_organisations-land-registry" type="checkbox" aria-controls="js-live-search-results" />
+        HM Land Registry (41)
+        </label>
+      <label for="filter_organisations-government-digital-service">
+        <input name="filter_organisations[]" value="government-digital-service" id="filter_organisations-government-digital-service" type="checkbox" aria-controls="js-live-search-results" />
+        Government Digital Service (40)
+        </label>
+      <label for="filter_organisations-attorney-generals-office">
+        <input name="filter_organisations[]" value="attorney-generals-office" id="filter_organisations-attorney-generals-office" type="checkbox" aria-controls="js-live-search-results" />
+        Attorney General's Office (39)
+        </label>
+      <label for="filter_organisations-national-college-for-teaching-and-leadership">
+        <input name="filter_organisations[]" value="national-college-for-teaching-and-leadership" id="filter_organisations-national-college-for-teaching-and-leadership" type="checkbox" aria-controls="js-live-search-results" />
+        National College for Teaching and Leadership (37)
+        </label>
+      <label for="filter_organisations-legal-aid-agency">
+        <input name="filter_organisations[]" value="legal-aid-agency" id="filter_organisations-legal-aid-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Legal Aid Agency (35)
+        </label>
+      <label for="filter_organisations-skills-funding-agency">
+        <input name="filter_organisations[]" value="skills-funding-agency" id="filter_organisations-skills-funding-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Skills Funding Agency (34)
+        </label>
+      <label for="filter_organisations-government-equalities-office">
+        <input name="filter_organisations[]" value="government-equalities-office" id="filter_organisations-government-equalities-office" type="checkbox" aria-controls="js-live-search-results" />
+        Government Equalities Office   (33)
+        </label>
+      <label for="filter_organisations-infrastructure-and-projects-authority">
+        <input name="filter_organisations[]" value="infrastructure-and-projects-authority" id="filter_organisations-infrastructure-and-projects-authority" type="checkbox" aria-controls="js-live-search-results" />
+        Infrastructure and Projects Authority (31)
+        </label>
+      <label for="filter_organisations-defence-science-and-technology-laboratory">
+        <input name="filter_organisations[]" value="defence-science-and-technology-laboratory" id="filter_organisations-defence-science-and-technology-laboratory" type="checkbox" aria-controls="js-live-search-results" />
+        Defence Science and Technology Laboratory (27)
+        </label>
+      <label for="filter_organisations-department-for-exiting-the-european-union">
+        <input name="filter_organisations[]" value="department-for-exiting-the-european-union" id="filter_organisations-department-for-exiting-the-european-union" type="checkbox" aria-controls="js-live-search-results" />
+        Department for Exiting the European Union (27)
+        </label>
+      <label for="filter_organisations-northern-ireland-statistics-and-research-agency">
+        <input name="filter_organisations[]" value="northern-ireland-statistics-and-research-agency" id="filter_organisations-northern-ireland-statistics-and-research-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Northern Ireland Statistics and Research Agency (25)
+        </label>
+      <label for="filter_organisations-office-for-budget-responsibility">
+        <input name="filter_organisations[]" value="office-for-budget-responsibility" id="filter_organisations-office-for-budget-responsibility" type="checkbox" aria-controls="js-live-search-results" />
+        Office for Budget Responsibility (24)
+        </label>
+      <label for="filter_organisations-defence-infrastructure-organisation">
+        <input name="filter_organisations[]" value="defence-infrastructure-organisation" id="filter_organisations-defence-infrastructure-organisation" type="checkbox" aria-controls="js-live-search-results" />
+        Defence Infrastructure Organisation (23)
+        </label>
+      <label for="filter_organisations-higher-education-statistical-agency">
+        <input name="filter_organisations[]" value="higher-education-statistical-agency" id="filter_organisations-higher-education-statistical-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Higher Education Statistics Agency (23)
+        </label>
+      <label for="filter_organisations-driver-and-vehicle-licensing-agency">
+        <input name="filter_organisations[]" value="driver-and-vehicle-licensing-agency" id="filter_organisations-driver-and-vehicle-licensing-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Driver and Vehicle Licensing Agency (22)
+        </label>
+      <label for="filter_organisations-low-pay-commission">
+        <input name="filter_organisations[]" value="low-pay-commission" id="filter_organisations-low-pay-commission" type="checkbox" aria-controls="js-live-search-results" />
+        Low Pay Commission (22)
+        </label>
+      <label for="filter_organisations-technology-strategy-board">
+        <input name="filter_organisations[]" value="technology-strategy-board" id="filter_organisations-technology-strategy-board" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Technology Strategy Board (21)
+        </label>
+      <label for="filter_organisations-government-actuarys-department">
+        <input name="filter_organisations[]" value="government-actuarys-department" id="filter_organisations-government-actuarys-department" type="checkbox" aria-controls="js-live-search-results" />
+        Government Actuary's Department (20)
+        </label>
+      <label for="filter_organisations-high-speed-two-limited">
+        <input name="filter_organisations[]" value="high-speed-two-limited" id="filter_organisations-high-speed-two-limited" type="checkbox" aria-controls="js-live-search-results" />
+        High Speed Two (HS2) Limited (19)
+        </label>
+      <label for="filter_organisations-office-of-the-advocate-general-for-scotland">
+        <input name="filter_organisations[]" value="office-of-the-advocate-general-for-scotland" id="filter_organisations-office-of-the-advocate-general-for-scotland" type="checkbox" aria-controls="js-live-search-results" />
+        Office of the Advocate General for Scotland (19)
+        </label>
+      <label for="filter_organisations-uk-commission-for-employment-and-skills">
+        <input name="filter_organisations[]" value="uk-commission-for-employment-and-skills" id="filter_organisations-uk-commission-for-employment-and-skills" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: UK Commission for Employment and Skills (19)
+        </label>
+      <label for="filter_organisations-highways-england">
+        <input name="filter_organisations[]" value="highways-england" id="filter_organisations-highways-england" type="checkbox" aria-controls="js-live-search-results" />
+        Highways England (18)
+        </label>
+      <label for="filter_organisations-certification-officer">
+        <input name="filter_organisations[]" value="certification-officer" id="filter_organisations-certification-officer" type="checkbox" aria-controls="js-live-search-results" />
+        Certification Officer (17)
+        </label>
+      <label for="filter_organisations-civil-service">
+        <input name="filter_organisations[]" value="civil-service" id="filter_organisations-civil-service" type="checkbox" aria-controls="js-live-search-results" />
+        Civil Service (17)
+        </label>
+      <label for="filter_organisations-defence-equipment-and-support">
+        <input name="filter_organisations[]" value="defence-equipment-and-support" id="filter_organisations-defence-equipment-and-support" type="checkbox" aria-controls="js-live-search-results" />
+        Defence Equipment and Support (17)
+        </label>
+      <label for="filter_organisations-driver-and-vehicle-standards-agency">
+        <input name="filter_organisations[]" value="driver-and-vehicle-standards-agency" id="filter_organisations-driver-and-vehicle-standards-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Driver and Vehicle Standards Agency (17)
+        </label>
+      <label for="filter_organisations-government-office-for-science">
+        <input name="filter_organisations[]" value="government-office-for-science" id="filter_organisations-government-office-for-science" type="checkbox" aria-controls="js-live-search-results" />
+        Government Office for Science (17)
+        </label>
+      <label for="filter_organisations-nhs-commissioning-board">
+        <input name="filter_organisations[]" value="nhs-commissioning-board" id="filter_organisations-nhs-commissioning-board" type="checkbox" aria-controls="js-live-search-results" />
+        NHS England (17)
+        </label>
+      <label for="filter_organisations-nuclear-decommissioning-authority">
+        <input name="filter_organisations[]" value="nuclear-decommissioning-authority" id="filter_organisations-nuclear-decommissioning-authority" type="checkbox" aria-controls="js-live-search-results" />
+        Nuclear Decommissioning Authority (17)
+        </label>
+      <label for="filter_organisations-rural-payments-agency">
+        <input name="filter_organisations[]" value="rural-payments-agency" id="filter_organisations-rural-payments-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Rural Payments Agency (17)
+        </label>
+      <label for="filter_organisations-efficiency-and-reform-group">
+        <input name="filter_organisations[]" value="efficiency-and-reform-group" id="filter_organisations-efficiency-and-reform-group" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Efficiency and Reform Group (16)
+        </label>
+      <label for="filter_organisations-infrastructure-uk">
+        <input name="filter_organisations[]" value="infrastructure-uk" id="filter_organisations-infrastructure-uk" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Infrastructure UK (16)
+        </label>
+      <label for="filter_organisations-office-of-the-public-guardian">
+        <input name="filter_organisations[]" value="office-of-the-public-guardian" id="filter_organisations-office-of-the-public-guardian" type="checkbox" aria-controls="js-live-search-results" />
+        Office of the Public Guardian (16)
+        </label>
+      <label for="filter_organisations-marine-management-organisation">
+        <input name="filter_organisations[]" value="marine-management-organisation" id="filter_organisations-marine-management-organisation" type="checkbox" aria-controls="js-live-search-results" />
+        Marine Management Organisation (15)
+        </label>
+      <label for="filter_organisations-the-scottish-government">
+        <input name="filter_organisations[]" value="the-scottish-government" id="filter_organisations-the-scottish-government" type="checkbox" aria-controls="js-live-search-results" />
+        The Scottish Government (15)
+        </label>
+      <label for="filter_organisations-department-of-finance-and-personnel-for-northern-ireland">
+        <input name="filter_organisations[]" value="department-of-finance-and-personnel-for-northern-ireland" id="filter_organisations-department-of-finance-and-personnel-for-northern-ireland" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Department of Finance and Personnel for Northern Ireland (14)
+        </label>
+      <label for="filter_organisations-driving-standards-agency">
+        <input name="filter_organisations[]" value="driving-standards-agency" id="filter_organisations-driving-standards-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Driving Standards Agency (14)
+        </label>
+      <label for="filter_organisations-export-guarantees-advisory-council">
+        <input name="filter_organisations[]" value="export-guarantees-advisory-council" id="filter_organisations-export-guarantees-advisory-council" type="checkbox" aria-controls="js-live-search-results" />
+        Export Guarantees Advisory Council (14)
+        </label>
+      <label for="filter_organisations-vehicle-and-operator-services-agency">
+        <input name="filter_organisations[]" value="vehicle-and-operator-services-agency" id="filter_organisations-vehicle-and-operator-services-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: Vehicle and Operator Services Agency (14)
+        </label>
+      <label for="filter_organisations-crown-commercial-service">
+        <input name="filter_organisations[]" value="crown-commercial-service" id="filter_organisations-crown-commercial-service" type="checkbox" aria-controls="js-live-search-results" />
+        Crown Commercial Service (13)
+        </label>
+      <label for="filter_organisations-export-control-organisation">
+        <input name="filter_organisations[]" value="export-control-organisation" id="filter_organisations-export-control-organisation" type="checkbox" aria-controls="js-live-search-results" />
+        Export Control Joint Unit (13)
+        </label>
+      <label for="filter_organisations-maritime-and-coastguard-agency">
+        <input name="filter_organisations[]" value="maritime-and-coastguard-agency" id="filter_organisations-maritime-and-coastguard-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Maritime and Coastguard Agency (13)
+        </label>
+      <label for="filter_organisations-military-aviation-authority">
+        <input name="filter_organisations[]" value="military-aviation-authority" id="filter_organisations-military-aviation-authority" type="checkbox" aria-controls="js-live-search-results" />
+        Military Aviation Authority (13)
+        </label>
+      <label for="filter_organisations-the-shareholder-executive">
+        <input name="filter_organisations[]" value="the-shareholder-executive" id="filter_organisations-the-shareholder-executive" type="checkbox" aria-controls="js-live-search-results" />
+        Closed organisation: The Shareholder Executive (13)
+        </label>
+      <label for="filter_organisations-companies-house">
+        <input name="filter_organisations[]" value="companies-house" id="filter_organisations-companies-house" type="checkbox" aria-controls="js-live-search-results" />
+        Companies House  (12)
+        </label>
+      <label for="filter_organisations-homes-england">
+        <input name="filter_organisations[]" value="homes-england" id="filter_organisations-homes-england" type="checkbox" aria-controls="js-live-search-results" />
+        Homes England (12)
+        </label>
+      <label for="filter_organisations-medicines-and-healthcare-products-regulatory-agency">
+        <input name="filter_organisations[]" value="medicines-and-healthcare-products-regulatory-agency" id="filter_organisations-medicines-and-healthcare-products-regulatory-agency" type="checkbox" aria-controls="js-live-search-results" />
+        Medicines and Healthcare products Regulatory Agency (12)
+        </label>
+      <label for="filter_organisations-office-of-financial-sanctions-implementation">
+        <input name="filter_organisations[]" value="office-of-financial-sanctions-implementation" id="filter_organisations-office-of-financial-sanctions-implementation" type="checkbox" aria-controls="js-live-search-results" />
+        Office of Financial Sanctions Implementation (12)
+        </label>
+    </div>
+
+  </div>
+</div>
+
+            <div class="submit js-live-search-fallback">
+                <button name="button" type="submit" class="pub-c-button">Submit filters</button>
+
+            </div>
+          </div>
+        </div>
+      <div class="results-block">
+  <div class="inner-block js-live-search-results-list">
+    <div class="result-count " id="js-live-search-result-count" aria-hidden="true">
+        25,810 results found
+    </div>
+    
+      <ol class="results-list" id="js-live-search-results" start="1" data-search-query="StudentFinance" data-analytics-ecommerce="" data-ecommerce-start-index="1">
+            <li>
+              <h3><a href="/student-finance-register-login" data-ecommerce-row="" data-ecommerce-path="/student-finance-register-login" data-ecommerce-content-id="e57daef4-5eb5-431c-b0ad-14119ab0355f"><mark>Student</mark> <mark>finance</mark> login</a></h3>
+            
+            
+            
+            
+            
+              <p>Your <mark>student</mark> <mark>finance</mark> online account - check payment dates, track an application, change details, reset password, find customer reference numbers</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/student-finance" data-ecommerce-row="" data-ecommerce-path="/student-finance" data-ecommerce-content-id="d38bafd3-2c46-4be2-b50b-50c2ba7d30ed"><mark>Student</mark> <mark>finance</mark></a></h3>
+            
+            
+            
+            
+            
+              <p><mark>Student</mark> <mark>finance</mark> - <mark>student</mark> loans or <mark>student</mark> grants for tuition fees and living costs, extra help, <mark>student</mark> loan repayments</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/apply-online-for-student-finance" data-ecommerce-row="" data-ecommerce-path="/apply-online-for-student-finance" data-ecommerce-content-id="83155b50-418e-437c-9389-cf0e1302900f">Apply online for <mark>student</mark> <mark>finance</mark></a></h3>
+            
+            
+            
+            
+            
+              <p>Apply online for <mark>student</mark> <mark>finance</mark> - online applications for <mark>student</mark> <mark>finance</mark> including Tuition Fee Loans, Maintenance Loans and Grants</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/student-finance-calculator" data-ecommerce-row="" data-ecommerce-path="/student-finance-calculator" data-ecommerce-content-id="434b6eb5-33c8-4300-aba3-f5ead58600b8"><mark>Student</mark> <mark>finance</mark> calculator</a></h3>
+            
+            
+            
+            
+            
+              <p><mark>Student</mark> <mark>finance</mark> calculator - get a quick estimate of what <mark>student</mark> loans, grants, bursaries and other funding you could get - for full-time, part-time and EU <mark>students</mark></p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/contact-student-finance-england" data-ecommerce-row="" data-ecommerce-path="/contact-student-finance-england" data-ecommerce-content-id="d490be5f-1998-4f20-ab52-d3dd5db7fa71">Contact <mark>Student</mark> <mark>Finance</mark> England</a></h3>
+            
+            
+            
+            
+            
+              <p>Contact details for <mark>Student</mark> <mark>Finance</mark> England - including complaints and <mark>student</mark> <mark>finance</mark> appeals, Advanced Learner Loan</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/apply-for-student-finance" data-ecommerce-row="" data-ecommerce-path="/apply-for-student-finance" data-ecommerce-content-id="06017464-d3e2-4a4c-8bef-250eff0de7e4"><mark>Student</mark> <mark>finance</mark>: how to apply</a></h3>
+            
+            
+            
+            
+            
+              <p>How to apply for <mark>student</mark> <mark>finance</mark> - when to apply, deadlines, proof of identity, parents, income, change an application</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/student-finance-forms" data-ecommerce-row="" data-ecommerce-path="/student-finance-forms" data-ecommerce-content-id="37e27ec1-ef3e-4b3c-a2f6-14dc42c4c162"><mark>Student</mark> <mark>finance</mark> forms</a></h3>
+            
+            
+            
+            
+            
+              <p>Download <mark>Student</mark> <mark>Finance</mark> England application forms and guidance notes - including forms PN1, PR1, PTG1, PFF2 and CYI.</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/support-child-or-partners-student-finance-application" data-ecommerce-row="" data-ecommerce-path="/support-child-or-partners-student-finance-application" data-ecommerce-content-id="5e9d40b6-1ed5-4f49-8648-ff75569d8d0d">Support your child or partner's <mark>student</mark> <mark>finance</mark> application</a></h3>
+            
+            
+            
+            
+            
+              <p>How to confirm your income and support a <mark>student's</mark> application for loans or grants - when to submit, which tax year, and change your details</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/mature-student-university-funding" data-ecommerce-row="" data-ecommerce-path="/mature-student-university-funding" data-ecommerce-content-id="78562c72-2170-48e8-90fb-e19f58b726de">Mature <mark>students</mark>: university and funding</a></h3>
+            
+            
+            
+            
+            
+              <p>Funding and university courses for mature <mark>students</mark> - entry requirements, find courses, <mark>student</mark> <mark>finance</mark></p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/student-finance-for-existing-students" data-ecommerce-row="" data-ecommerce-path="/student-finance-for-existing-students" data-ecommerce-content-id="172f78cc-590a-4167-9543-0f5975ca9752"><mark>Student</mark> <mark>finance</mark> if you started before 1 September 2012</a></h3>
+            
+            
+            
+            
+            
+              <p>For courses before September 2012 - <mark>student</mark> loans, grants, application forms, Tuition Fee Grant, Course Grant and guidance notes</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/disabled-students-allowances-dsas" data-ecommerce-row="" data-ecommerce-path="/disabled-students-allowances-dsas" data-ecommerce-content-id="99ac3c7d-7e51-430c-bffb-c6e310be1659">Help if you're a <mark>student</mark> with a learning difficulty, health problem or disability</a></h3>
+            
+            
+            
+            
+            
+              <p>Disabled <mark>Students'</mark> Allowance is extra money for higher education <mark>students</mark> - DSA1 forms, eligibility, how to apply, needs assessment</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/government/publications/written-ministerial-statement-by-the-rt-hon-david-willetts-higher-education-student-finance-for-the-2013-14-academic-year" data-ecommerce-row="" data-ecommerce-path="/government/publications/written-ministerial-statement-by-the-rt-hon-david-willetts-higher-education-student-finance-for-the-2013-14-academic-year" data-ecommerce-content-id="5c998c30-7631-11e4-a3cb-005056011aef">Written ministerial statement by the Rt Hon David Willetts: higher education <mark>student</mark> <mark>finance</mark> for the 2013/14 academic year</a></h3>
+            
+            
+            
+                <ul class="attributes">
+                    <li>  8 March 2012 </li>
+                    <li> Correspondence </li>
+                    <li> <abbr title="Closed organisation: Department for Business, Innovation &amp; Skills">BIS</abbr> </li>
+                </ul>
+            
+            
+              <p>Statement by the Minister of State for Universities and Science announcing the <mark>student</mark> <mark>finance</mark> package for higher education <mark>students</mark> undertaking…</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/childcare-grant" data-ecommerce-row="" data-ecommerce-path="/childcare-grant" data-ecommerce-content-id="871c1c02-7117-43b6-bec7-60ac68156d4d">Childcare Grant</a></h3>
+            
+            
+            
+            
+            
+              <p>Childcare Grants for full-time <mark>students</mark> in higher education - grants, CCG1, CCG2 forms, how to apply, eligibility </p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/teacher-training-funding" data-ecommerce-row="" data-ecommerce-path="/teacher-training-funding" data-ecommerce-content-id="708334c4-2855-4d45-b311-72a26b03529a">Teacher training funding</a></h3>
+            
+            
+            
+            
+            
+              <p>Teacher training - funding for full or part-time teacher training courses including Postgraduate Certificate of Education (PGCE)</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/extra-money-pay-university" data-ecommerce-row="" data-ecommerce-path="/extra-money-pay-university" data-ecommerce-content-id="eff0d788-3b5e-4090-8b56-aaa0a4bf3f25">Extra money to pay for university</a></h3>
+            
+            
+            
+            
+            
+              <p>Bursaries and scholarships from universities or colleges including the National Scholarship Programme and hardship funds</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/government/consultations/sharia-compliant-student-finance" data-ecommerce-row="" data-ecommerce-path="/government/consultations/sharia-compliant-student-finance" data-ecommerce-content-id="5eef9480-7631-11e4-a3cb-005056011aef">Sharia-compliant <mark>student</mark> <mark>finance</mark></a></h3>
+            
+            
+            
+                <ul class="attributes">
+                    <li>  4 September 2014 </li>
+                    <li> Consultation outcome </li>
+                    <li> <abbr title="Closed organisation: Department for Business, Innovation &amp; Skills">BIS</abbr> </li>
+                </ul>
+            
+                <p class="historic">
+                  First published during the 2010 to 2015 Conservative and Liberal Democrat coalition government
+                </p>
+            
+              <p>We are seeking views from the Muslim community and the wider public on an alternative Sharia-compliant <mark>student</mark> <mark>finance</mark> scheme.</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/government/publications/higher-education-student-finance-2018-to-2019-equality-analysis" data-ecommerce-row="" data-ecommerce-path="/government/publications/higher-education-student-finance-2018-to-2019-equality-analysis" data-ecommerce-content-id="41b402c8-32df-45d2-b3fe-c83d5bf93717">Higher education <mark>student</mark> <mark>finance</mark>, 2018 to 2019: equality analysis</a></h3>
+            
+            
+            
+                <ul class="attributes">
+                    <li> 12 February 2018 </li>
+                    <li> Impact assessment </li>
+                    <li> <abbr title="Department for Education">DfE</abbr> </li>
+                </ul>
+            
+            
+              <p>Analysis of how changes made to maximum fees and <mark>student</mark> support for the 2018 to 2019 academic year will affect specific protected groups.</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/parents-learning-allowance" data-ecommerce-row="" data-ecommerce-path="/parents-learning-allowance" data-ecommerce-content-id="f17a4a04-fea2-4e6b-8f87-84f0560c9cba">Parents' Learning Allowance</a></h3>
+            
+            
+            
+            
+            
+              <p>Parents' Learning Allowance for full-time <mark>students</mark> with children - funding, apply, eligibility</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/government/publications/student-finance-proposals-background-information" data-ecommerce-row="" data-ecommerce-path="/government/publications/student-finance-proposals-background-information" data-ecommerce-content-id="5c9893da-7631-11e4-a3cb-005056011aef"><mark>Student</mark> <mark>finance</mark> proposals: background information</a></h3>
+            
+            
+            
+                <ul class="attributes">
+                    <li>  3 November 2010 </li>
+                    <li> Policy paper </li>
+                    <li> <abbr title="Closed organisation: Department for Business, Innovation &amp; Skills">BIS</abbr> </li>
+                </ul>
+            
+                <p class="historic">
+                  First published during the 2010 to 2015 Conservative and Liberal Democrat coalition government
+                </p>
+            
+              <p>Background on the government’s <mark>student</mark> <mark>finance</mark> support package proposals. See also the <mark>student</mark> loan repayment ready reckoner (URN 10/1250) and…</p>
+            
+            
+            
+            
+            </li>
+            <li>
+              <h3><a href="/government/publications/higher-education-student-finance-2017-to-2018-equality-analysis" data-ecommerce-row="" data-ecommerce-path="/government/publications/higher-education-student-finance-2017-to-2018-equality-analysis" data-ecommerce-content-id="f53a86e0-9833-4c9d-bb92-477db9abdfb5">Higher education <mark>student</mark> <mark>finance</mark>, 2017 to 2018: equality analysis</a></h3>
+            
+            
+            
+                <ul class="attributes">
+                    <li> 10 February 2017 </li>
+                    <li> Impact assessment </li>
+                    <li> <abbr title="Department for Education">DfE</abbr> </li>
+                </ul>
+            
+            
+              <p>Analysis of how changes made to maximum fees and <mark>student</mark> support for the 2017 to 2018 academic year will affect specific protected groups.</p>
+            
+            
+            
+            
+            </li>
+      </ol>
+    
+      <nav class="pub-c-pagination" role="navigation" aria-label="Pagination">
+  <ul class="pub-c-pagination__list">
+      <li class="pub-c-pagination__item pub-c-pagination__item--next">
+        <a href="/search?q=StudentFinance&amp;start=20" class="pub-c-pagination__link" rel="next">
+          <span class="pub-c-pagination__link-title">
+            Next page
+            <svg class="pub-c-pagination__link-icon" xmlns="http://www.w3.org/2000/svg" height="13" width="17" viewBox="0 0 17 13">
+              <path fill="currentColor" d="m10.107-0.0078125-1.4136 1.414 4.2926 4.293h-12.986v2h12.896l-4.1855 3.9766 1.377 1.4492 6.7441-6.4062-6.7246-6.7266z"/>
+            </svg>
+          </span>
+            <span class="visually-hidden">:</span>
+            <span class="pub-c-pagination__link-label">2 of 1291</span>
+        </a>
+      </li>
+  </ul>
+</nav>
+
+  </div>
+</div>
+
+    </div>
+  </form>
+</main>
+
+<h3 class="visuallyhidden">No more results for “StudentFinance”. <a href="#search-main">Try a different search?</a>
+</h3>
+
+  
+<div class="gem-c-feedback" data-module="feedback">
+  <div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
+    <div class="js-prompt-questions">
+      <h3 class="gem-c-feedback__prompt-question">Is this page useful?</h3>
+
+      <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--useful js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" href="/contact/govuk">
+          Yes <span class="visually-hidden">this page is useful</span>
+</a>
+      <a class="gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffNoClick" aria-controls="page-is-not-useful" aria-expanded="false" role="button" href="/contact/govuk">
+          No <span class="visually-hidden">this page is not useful</span>
+</a>
+      <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--wrong js-toggle-form js-something-is-wrong" data-track-category="Onsite Feedback" data-track-action="GOV.UK Open Form" aria-controls="something-is-wrong" aria-expanded="false" role="button" href="/contact/govuk">
+          Is there anything wrong with this page?
+</a>    </div>
+
+    <div class="gem-c-feedback__prompt-success js-prompt-success js-hidden" tabindex="-1">
+      Thank you for your feedback
+    </div>
+  </div>
+
+  <form action="/contact/govuk/problem_reports" id="something-is-wrong" class="gem-c-feedback__form js-feedback-form js-hidden" data-track-category="Onsite Feedback" data-track-action="GOV.UK Send Form" method="post" aria-hidden="true">
+    <a href="#" class="gem-c-feedback__close gem-c-feedback__js-show js-close-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Close Form" aria-controls="something-is-wrong" aria-expanded="true" role="button">Close</a>
+
+    <div class="gem-c-feedback__grid-row">
+      <div class="gem-c-feedback__column-two-thirds">
+        <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
+
+        <input type="hidden" name="url" value="https://www.gov.uk/search?q=StudentFinance" />
+        <input type="hidden" name="user_agent" value="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36" />
+
+        <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
+        <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
+
+        
+
+
+<div class="&#10;    gem-c-label&#10;    &#10;    &#10;  ">
+  <label class="&#10;      gem-c-label__text&#10;      &#10;    " for="input-342b7ade">
+    What were you doing?
+  </label>
+</div>
+
+
+<input class="gem-c-input " id="input-342b7ade" name="what_doing" type="text" aria-describedby="feedback_explanation" />
+
+
+        
+
+
+<div class="&#10;    gem-c-label&#10;    &#10;    &#10;  ">
+  <label class="&#10;      gem-c-label__text&#10;      &#10;    " for="input-c0c6e429">
+    What went wrong?
+  </label>
+</div>
+
+
+<input class="gem-c-input " id="input-c0c6e429" name="what_wrong" type="text" />
+
+
+        <input class="gem-c-feedback__submit" type="submit" value="Send" />
+      </div>
+    </div>
+  </form>
+
+  <form action="/contact/govuk/email-survey-signup" id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form js-hidden" data-track-category="yesNoFeedbackForm" data-track-action="Send Form" method="post" aria-hidden="true">
+    <a href="#" class="gem-c-feedback__close js-close-form" data-track-category="yesNoFeedbackForm" data-track-action="ffFormClose" aria-controls="page-is-not-useful" aria-expanded="true" role="button">Close</a>
+
+    <div class="gem-c-feedback__grid-row">
+      <div class="gem-c-feedback__column-two-thirds">
+        <div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
+
+        <input type="hidden" name="url" value="https://www.gov.uk/search?q=StudentFinance" />
+        <input type="hidden" name="user_agent" value="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.162 Safari/537.36" />
+
+        <input name="email_survey_signup[survey_id]" type="hidden" value="user_satisfaction_survey" />
+        <input name="email_survey_signup[survey_source]" type="hidden" value="https://www.gov.uk/search?q=StudentFinance" />
+        <input name="email_survey_signup[ga_client_id]" type="hidden" value="1627485790.1515403243" />
+
+        <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
+        <p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
+
+        
+
+
+<div class="&#10;    gem-c-label&#10;    &#10;    &#10;  ">
+  <label class="&#10;      gem-c-label__text&#10;      &#10;    " for="input-553c5bb5">
+    Email address
+  </label>
+</div>
+
+
+<input class="gem-c-input " id="input-553c5bb5" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation" />
+
+
+        <input class="gem-c-feedback__submit" type="submit" value="Send me the survey" />
+        <a href="https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/search?q=StudentFinance&amp;gcl=1627485790.1515403243" class="gem-c-feedback__email-link" id="take-survey" target="_blank" rel="noopener noreferrer">Don’t have an email address?</a>
+      </div>
+    </div>
+  </form>
+
+</div>
+
+  
+</div>
+
+
+    <footer class="group js-footer" id="footer" role="contentinfo">
+
+      <div class="footer-wrapper">
+            <div class="footer-categories">
+      <div class="footer-explore">
+        <h2>Services and information</h2>
+
+        <ul>
+          <li><a href="/browse/benefits">Benefits</a></li>
+          <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
+          <li><a href="/browse/business">Business and self-employed</a></li>
+          <li><a href="/browse/childcare-parenting">Childcare and parenting</a></li>
+          <li><a href="/browse/citizenship">Citizenship and living in the UK</a></li>
+          <li><a href="/browse/justice">Crime, justice and the law</a></li>
+          <li><a href="/browse/disabilities">Disabled people</a></li>
+          <li><a href="/browse/driving">Driving and transport</a></li>
+        </ul>
+        <ul>
+          <li><a href="/browse/education">Education and learning</a></li>
+          <li><a href="/browse/employing-people">Employing people</a></li>
+          <li><a href="/browse/environment-countryside">Environment and countryside</a></li>
+          <li><a href="/browse/housing-local-services">Housing and local services</a></li>
+          <li><a href="/browse/tax">Money and tax</a></li>
+          <li><a href="/browse/abroad">Passports, travel and living abroad</a></li>
+          <li><a href="/browse/visas-immigration">Visas and immigration</a></li>
+          <li><a href="/browse/working">Working, jobs and pensions</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-inside-government">
+        <h2>Departments and policy</h2>
+
+        <ul>
+          <li><a href="/government/how-government-works">How government works</a></li>
+          <li><a href="/government/organisations">Departments</a></li>
+          <li><a href="/world">Worldwide</a></li>
+          <li><a href="/government/policies">Policies</a></li>
+          <li><a href="/government/publications">Publications</a></li>
+          <li><a href="/government/announcements">Announcements</a></li>
+        </ul>
+      </div>
+      <hr />
+    </div>
+
+
+        <div class="footer-meta">
+          <div class="footer-meta-inner">
+              <h2 class="visuallyhidden">Support links</h2>
+<ul>
+  <li><a href="/help">Help</a></li>
+  <li><a href="/help/cookies">Cookies</a></li>
+  <li><a href="/contact">Contact</a></li>
+  <li><a href="/help/terms-conditions">Terms and conditions</a></li>
+  <li><a href="/cymraeg" lang="cy" hreflang="cy">Rhestr o Wasanaethau Cymraeg</a></li>
+  <li>Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service">Government Digital Service</a>
+</li>
+</ul>
+
+
+
+            <div class="open-government-licence">
+              <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
+                <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
+            </div>
+          </div>
+
+          <div class="copyright">
+            <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/">© Crown copyright</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div id="global-app-error" class="app-error hidden"></div>
+
+    <script src="https://assets.publishing.service.gov.uk/static/govuk-template-d4ba5ab8f60c9df5c733e7d3c7c469ff93dc6b64d2b2a8feb94afa8f77c66193.js" crossorigin="anonymous" integrity="sha256-1LpauPYMnfXHM+fTx8Rp/5Pca2TSsqj+uUr6j3fGYZM="></script>
+
+      <script src="https://assets.publishing.service.gov.uk/static/libs/jquery/jquery-1.12.4-5f1157a433c276bcb98f3651434f7cb1f49ff45fe2ec2808b46ee088e61159b5.js" crossorigin="anonymous" integrity="sha256-XxFXpDPCdry5jzZRQ098sfSf9F/i7CgItG7giOYRWbU="></script>
+<script src="https://assets.publishing.service.gov.uk/static/header-footer-only-45b84379eb7e705803e25008a3d3f218fd0bd8baf351c5dd6932224f123a099e.js" crossorigin="anonymous" integrity="sha256-RbhDeet+cFgD4lAIo9PyGP0L2LrzUcXdaTIiTxI6CZ4="></script>
+<script src="https://assets.publishing.service.gov.uk/static/surveys-ecb1c7e186c4c9ee248ab517fa36029a4433e93ec1440c5f3facbcb6c449ba53.js" crossorigin="anonymous" integrity="sha256-7LHH4YbEye4kirUX+jYCmkQz6T7BRAxfP6y8tsRJulM="></script>
+
+
+
+    <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
+  <script src="https://assets.publishing.service.gov.uk/finder-frontend/application-site-search-eb8d4e0a9ba1c634c3949392e17b89c110f5a22606b7882c8d07301aeedc1893.js" crossorigin="anonymous" integrity="sha256-641OCpuhxjTDlJOS4XuJwRD1oiYGt4gsjQcwGu7cGJM="></script>
+
+
+</body></html>

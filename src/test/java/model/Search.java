@@ -1,9 +1,9 @@
 package model;
 
-public enum Category {
-    Driving("Driving and transport");
+public enum Search {
+    StudentFinance("Student finance");
 
-    Category(String label) {
+    Search(String label) {
         this.label = label;
     }
 

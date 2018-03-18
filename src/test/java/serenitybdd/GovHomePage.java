@@ -1,4 +1,4 @@
-package net.serenitybdd.tutorials.ui;
+package serenitybdd;
 
 import net.serenitybdd.core.pages.PageObject;
 import net.thucydides.core.annotations.DefaultUrl;
