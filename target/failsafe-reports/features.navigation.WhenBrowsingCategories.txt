@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: features.navigation.WhenBrowsingCategories
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.414 s - in features.navigation.WhenBrowsingCategories
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.728 s - in features.navigation.WhenBrowsingCategories
